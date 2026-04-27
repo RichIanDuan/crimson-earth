@@ -8,4 +8,4 @@ Hello fellow traveller, here is a list of things to take note of before you trav
 [[Crimson Earth/Governing Laws\|Governing Laws]]
 [[Crimson Earth/Beyonder Pathways/Hub\|Hub]]
 [[Crimson Earth/Initial Plan\|Initial Plan]]
-[[Crimson Earth/First Plot Line\|First Plot Line]]
+[[Crimson Earth/Plot Line\|Plot Line]]
